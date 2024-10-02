@@ -1,0 +1,46 @@
+1. Con respecto a las funciones en lenguaje C, ¿Cuál de las siguientes alternativas NO es correcta? 
+$A Una función siempre debe retornar un valor numérico para señalizar que la ejecución fue correcta. 
+B Una función puede recibir más de un parámetro cuando se le invoca. 
+C Una función puede tener sus propias declaraciones y sentencias.
+D Una función permite dividir un programa en piezas más pequeñas, simples de comprender y modificar.
+
+2. Al programa escrito en lenguaje ensamblador se le denomina ... (seleccione la opción correcta) 
+A Código objeto 
+B Código ejecutable 
+$C Código fuente 
+D Código máquina 
+
+3. ¿Cuál de las siguientes alternativas NO es un "Objetivo de usuario" en las especificaciones para el diseño de un Sistema Operativo? 
+A Uso fácil 
+B Uso seguro 
+C Uso fiable 
+$D Uso eficiente
+
+4. Con respecto a las Estructuras, ¿Cuál de las siguientes alternativas NO es correcta? 
+A Es una colección de una o más variables del mismo tipo, agrupadas bajo un solo nombre. B ???????????? 
+C EI lenguaje C permite el acceso a los miembros de una estructura.
+D Una estructura puede tener miembros que sean a su vez estructuras. 
+
+5. ¿Cuál de las siguientes instrucciones incluye el valor actual del "CarrY' como parte de su ejecución?
+A INC
+$B ADC
+C DEC
+D AND
+
+6. Con respecto a los arreglos, ¿Cuál de las siguientes opciones NO es correcta? 
+A Es un tipo de dato que se construye a partir de elementos más simples, cada uno de ellos identificado con un índice. 
+$B Tienen estructura heterogénea, pudiendo almacenar datos de diversos tipos. 
+C Los arreglos se indexan desde la posición 0. 
+ 
+7. Con respecto a los punteros, ¿Cuál de las siguientes alternativas NO es correcta? 
+A Un puntero es una variable que puede almacenar una dirección de memoria. 
+B Si se desea conocer el "contenido" al que apunta un puntero, se usa el operador " * " sobre dicho puntero 
+C Un puntero solo podrá almacenar direcciones de memoria de variables del tipo especificado en su declaración. 
+$D Un puntero se vincula a la variable para la cual se ha declarado y no podrá emplearse para trabajar con otras variables.
+
+8. En la programación híbrida, ¿Qué palabra clave emplea el lenguaje C para poder escribir directamente instrucciones en lenguaje ensamblador junto con el resto del código fuente? 
+$A asm
+B STRUCT 
+C inline 
+D assembly 
+E input

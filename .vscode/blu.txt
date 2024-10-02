@@ -1,0 +1,48 @@
+Pregunta 1 Con respecto a los arreglos, se conoce que son un tipo de dato “compuesto”, y se puede afirmar: 
+a. Los arreglos en C, el identificador de cada elemento se conoce como índice, y siempre empieza en 1 
+b. Si se declara un arreglo: int arreglo[99], esto quiere decir que cada elemento es de tipo entero y se tienen 99 elementos 
+c. Los arreglos son un conjunto de elementos de tipo muy grande, ordenado pero heterogéneo 
+$d. Si se declara un arreglo: int arreglo[20], y un entero ocupa 4 Bytes, el arreglo ocupa 80 Bytes seguidos
+
+Pregunta 2 Con respeto a los sistemas operativos de procesamiento por los lotes, se puede afirmar: 
+a. El lote no requiere que los trabajos estén desarrollados en un mismo lenguaje de programación 
+$b. Una vez completado un trabajo se libera la memoria y se colocan los resultados en el spool de salida 
+c. Se caracterizan porque con ellos se logra un alto nivel de interacción con el usuario 
+d. Una de las razones para su utilización hasta el día de hoy es que todos los procesos del procesamiento no dependen de acciones humanas.
+
+Pregunta 3 Con respecto a los “punteros”, se puede afirmar:
+a. Si se desea conocer el “contenido” al que apunta un puntero, uso el operador “%”, sobre dicho puntero. 
+$b. En un programa en C se están declarando variables: int *pNumero1; esto sería un ejemplo válido para declarar una variable de tipo puntero 
+c. No se pueden igualar 2 variables de tipo puntero, porque se sobrescribiría la posición de memoria. 
+d. Se declara el puntero como “int”, pero dicho puntero puede almacenar direcciones de memoria de variables de tipo “char”
+
+Pregunta 4 Con respecto a la ejecución de los tipos de sistemas operativos señale las afirmaciones correctas: 
+a. En los sistemas distribuidos si se tuviera la capacidad de trabajar en red, se tuviera tanto un uso más eficiente de los recursos informáticos, y con ello mejores tiempos de respuesta 
+b. En el procesamiento por lotes, se ejecuta más de un trabajo a la vez, para ello el uso compartido de memoria es clave 
+c. En los sistemas operativos de tiempo real, no hay ejecución paralela, lo importante es ejecutar un programa a la vez de manera que se logre precisión en la ejecución 
+$d. En tiempo compartido, se intercala la ejecución de procesos, de manera que se provee a todos los procesos de buenos tiempos de respuesta
+
+Pregunta 5 Con respecto a los “arrays” indique la afirmación correcta: 
+a. Todos los datos almacenados en esa estructura son de tipo diferente 
+b. Son estructuras que pueden cambiar su tamaño incluso en tiempo de ejecución 
+$c. Se puede acceder a los datos con sólo proporcionar su subíndice 
+d. Son un tipo de dato que se construye a partir de elementos más complejos y sin identificación precisa
+
+Pregunta 6 Con respeto a las a los sistemas operativos de tiempo real, se puede armar: 
+a. Las aplicaciones que requieren procesamiento por lotes se ejecutan de manera eciente en los sistemas operativos de tiempo real 
+$b. Se caracterizan por su planificación de procesos en tiempo real y cumplir con un tiempo límite. 
+c. Existen dos tipos de sistemas operativos de tiempo real. Los duros garantizan el tiempo de respuesta probabilísticamente. Blandos, garantizan el tiempo de respuesta de manera absoluta 
+d. El elemento crítico no es el tiempo sino en dar una interfaz amigable de usuario
+
+Pregunta 7 Con respecto a los “tipos de sistemas operativos” indique las afirmaciones correctas:
+a. Se puede decir que históricamente, y al día de hoy sólo han existido los sistemas multiprogramados, de tiempo compartido, de tiempo real y distribuidos 
+$b. Si se hace un análisis de Eficiencia y Conveniencia del usuario, los sistemas distribuidos son los que tienen una mejor posición 
+c. El procesamiento por lotes tiene la posición más alta tanto en eficiencia como en la valoración de usuario 
+d. Los sistemas de tiempo real si bien no otorgan lo mejor para los usuarios, si son los mejor posicionados en el uso eficiente de los tiempos del procesador
+
+
+Pregunta 8 Con respecto a los “punteros”, se puede armar: 
+a. Dan una información parcial de la variable a la que “apuntan” 
+$b. Sólo podrá almacenar direcciones de memoria de variables del tipo especificado 
+c. En la declaración de las variables de tipo puntero, estas van precedidas del operador “&” 
+d. Es un tipo de variable que entre muchos tipos de datos puede almacenar una dirección de memoria
